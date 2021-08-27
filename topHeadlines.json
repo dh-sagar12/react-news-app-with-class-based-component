@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Patrick Galey",
+            "title": "Ocean surface climates may disappear by 2100: study - Phys.org",
+            "description": "Up to 95 percent of Earth's ocean surface will have changed by the end of the century unless humanity reins in its carbon emissions, according to research published Thursday.",
+            "url": "https://phys.org/news/2021-08-ocean-surface-climates.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/the-worlds-seas-have-a.jpg",
+            "publishedAt": "2021-08-26T16:26:50Z",
+            "content": "Up to 95 percent of Earth's ocean surface will have changed by the end of the century unless humanity reins in its carbon emissions, according to research published Thursday.\r\nOcean surface climates,… [+3738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Natalie Grover",
+            "title": "Female hummingbirds mimic males to avoid attacks, study suggests - The Guardian",
+            "description": "Some females found to have evolved to have bright plumage, which seems to protect against male aggression",
+            "url": "https://amp.theguardian.com/environment/2021/aug/26/female-hummingbirds-mimic-males-to-avoid-attacks-study-suggests",
+            "urlToImage": null,
+            "publishedAt": "2021-08-26T16:09:00Z",
+            "content": "BirdsSome females found to have evolved with bright plumage, which seems to protect against male aggression\r\nThey may zip around looking cute and sociable, but the world of hummingbirds is rife with … [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZoNano"
+            },
+            "author": null,
+            "title": "Janus Graphene Exhibits Potential to Create Sustainable Sodium-Ion Batteries - AZoNano",
+            "description": "Researchers at the Chalmers University of Technology have introduced a new concept to fabricate high-performance electrode materials for sodium batteries. The work is an attempt to find sustainable energy storage.",
+            "url": "https://www.azonano.com/news.aspx?newsID=38138",
+            "urlToImage": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38138_16299832825501061.jpg",
+            "publishedAt": "2021-08-26T16:02:00Z",
+            "content": "Aug 26 2021Reviewed by Alex Smith\r\nResearchers at the Chalmers University of Technology have introduced a new concept to fabricate high-performance electrode materials for sodium batteries. The work … [+4920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Eric Mack",
+            "title": "China May Build A Massive Space Station The Size Of A Small Town - Forbes",
+            "description": "China already has its own orbiting spacecraft, but the country’s National Natural Science Foundation wants scientists to seriously consider what it would take to build an “ultra-large spacecraft spanning kilometers.”",
+            "url": "https://www.forbes.com/sites/ericmack/2021/08/26/china-may-build-a-massive-space-station-the-size-of-a-small-town/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6127b2920d67d45e8a181602%2F0x0.jpg",
+            "publishedAt": "2021-08-26T15:40:33Z",
+            "content": "Futuristic Space Station In The Rays Of Blue Light. 3D Illustration.\r\ngetty\r\nChina already has its own orbiting space station, but the countrys National Natural Science Foundation wants scientists to… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Female hummingbirds look like males to evade harassment - Mirage News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL2ZlbWFsZS1odW1taW5nYmlyZHMtbG9vay1saWtlLW1hbGVzLXRvLWV2YWRlLTYyMDc2OS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-26T15:30:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Universe Today"
+            },
+            "author": null,
+            "title": "Interstellar Objects Might Outnumber Solar System Objects in the Oort Cloud - Universe Today",
+            "description": "A study of the interstellar bodie 2I/Borisov aruges that the Oort cloud may consist more of alien objects than solar system objects.",
+            "url": "https://www.universetoday.com/152327/interstellar-objects-might-outnumber-solar-system-objects-in-the-oort-cloud/",
+            "urlToImage": "https://www.universetoday.com/wp-content/uploads/2018/06/eso1820a.jpg",
+            "publishedAt": "2021-08-26T15:29:19Z",
+            "content": "Our solar system is filled with everything from planets to rocky asteroids to small icy bodies beyond Pluto, but surrounding all of it is a diffuse halo of objects known as the Oort cloud. We haven’t… [+2590 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Samuel Webb",
+            "title": "Climate crisis could lead to weaker El Niño and La Niña weather cycles - Yahoo Singapore News",
+            "description": "Human-led climate change is likely to affect the major weather phenomenon in unpredictable ways",
+            "url": "https://www.independent.co.uk/climate-change/news/el-nino-la-nina-climate-change-enso-b1909298.html",
+            "urlToImage": "https://static.independent.co.uk/2021/08/26/14/Figure%201.png?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-08-26T15:27:55Z",
+            "content": "The cycling through warm El Niño and cold La Niña conditions in the eastern Pacific could be weakened by climate change and scientists dont know what the ecological effects will be.\r\nThe weather phen… [+3002 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "An appetite for survival - Mirage News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiO2h0dHBzOi8vd3d3Lm1pcmFnZW5ld3MuY29tL2FuLWFwcGV0aXRlLWZvci1zdXJ2aXZhbC02MjA3NjUv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-26T15:26:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS Online",
+            "title": "Inzidenzen in Deutschland: Welche Orte jetzt die höchsten Zahlen haben - FOCUS Online",
+            "description": "Die Inzidenzzahlen klettern, mal wieder. Besonders rasant in Nordrhein-Westfalen. Doch auch in Bayern meldet ein Kreis extrem hohe Zahlen. In drei Bundesländern liegt die Inzidenz dagegen weiter unter 30. Der Deutschland-Überblick zur Corona-Lage.",
+            "url": "https://www.focus.de/gesundheit/coronavirus/nrw-und-stadt-in-bayern-ganz-vorne-wo-corona-karte-dunkelrot-ist-und-wo-noch-gruen_id_20758299.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_20889899/gettyimages-1212213050.jpg?im=Crop%3D%280%2C310%2C3626%2C1812%29%3BResize%3D%281200%2C627%29&hash=c8da12a42c38bb50b0486441c9db0ecbc141a84348f5c2b034b02b379b7a4b48",
+            "publishedAt": "2021-08-26T15:21:00Z",
+            "content": "Die Inzidenzzahlen klettern, mal wieder. Besonders rasant in Nordrhein-Westfalen. Doch auch in Bayern meldet ein Kreis extrem hohe Zahlen. In drei Bundesländern liegt die Inzidenz dagegen weiter unte… [+5863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EL PAÍS"
+            },
+            "author": "Alberto Quero",
+            "title": "Las hembras de una especie de colibrí copian la apariencia de los machos para evitar el acoso - EL PAÍS",
+            "description": "Alrededor de un 20% de las aves adoptaron los llamativos colores de los miembros masculinos al pasar a la etapa adulta, lo que les permitió tener acceso a la comida más veces y durante más tiempo",
+            "url": "https://elpais.com/ciencia/2021-08-26/las-hembras-de-una-especie-de-colibri-copian-la-apariencia-de-los-machos-para-evitar-el-acoso.html",
+            "urlToImage": "https://imagenes.elpais.com/resizer/sqcEkupvc00Pw8xT8iB44Tgsst8=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/MTLIPWEIVBBUZM5DD6CKL7QP3A.jpg",
+            "publishedAt": "2021-08-26T15:08:00Z",
+            "content": "Los jacobinos de cuello blanco son una especie de colibrí que habita en el centro y el sur de América. Al igual que ocurre con otras especies, machos y hembras adultos tienen una apariencia diferenci… [+5863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Underlying instincts: An appetite for survival - Science Daily",
+            "description": "Microscopic roundworms may hold the key to understanding what is happening in the brain when the instinct of an animal changes in order to survive.",
+            "url": "https://www.sciencedaily.com/releases/2021/08/210826095027.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2021-08-26T15:07:47Z",
+            "content": "Microscopic roundworms may hold the key to understanding what is happening in the brain when the instinct of an animal changes in order to survive. In a newly published paper in the journal Current B… [+2199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popular"
+            },
+            "author": "Diario Popular",
+            "title": "ADN de una mujer que murió hace 7.000 años revela la existencia de un grupo de humanos desconocido - Popular",
+            "description": "El análisis de ADN mostró que la joven desciende de la primera ola de humanos modernos que llegó a Wallacea hace 50.000 años.",
+            "url": "https://www.diariopopular.com.ar/ciencia/adn-una-mujer-que-murio-hace-7000-anos-revela-la-existencia-un-grupo-humanos-desconocido-n582541",
+            "urlToImage": "https://media.diariopopular.com.ar/adjuntos/143/imagenes/007/867/0007867756.png",
+            "publishedAt": "2021-08-26T15:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Bild.de",
+            "title": "Hospitalisierungsrate - Was bedeutet die neue Corona-Kennzahl? - BILD",
+            "description": "Der Inzidenz hat ausgedient, jetzt gilt die Hospitalisierungsrate. Doch was bedeutet sie?",
+            "url": "https://www.bild.de/ratgeber/2021/ratgeber/hospitalisierungsrate-was-bedeutet-die-neue-corona-kennzahl-77492980.bild.html",
+            "urlToImage": "https://bilder.bild.de/fotos/hospitalisierungsrate-was-bedeutet-die-neue-corona-kennzahl--a2c01cca749a413cb7bb5642fedfbe53-77493010/Bild/6.bild.jpg",
+            "publishedAt": "2021-08-26T15:03:06Z",
+            "content": "Die Inzidenz hat ausgedient. Der Wert, der bisher laut Infektionsschutzgesetz als maßgebend für schärfere Maßnahmen galt, soll künftig von der Hospitalisierungsrate abgelöst werden. \r\nDoch was ist da… [+1607 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Priyanka Runwal",
+            "title": "Why some female hummingbirds masquerade as males - National Geographic",
+            "description": "Scientists are increasingly finding examples of female birds with showy, male-like plumage.",
+            "url": "https://www.nationalgeographic.com/animals/article/why-some-female-hummingbirds-masquerade-as-males",
+            "urlToImage": "https://i.natgeofe.com/n/57857536-8921-4795-b74e-f6e36c0056f9/NationalGeographic_2365590_16x9.jpg?w=1200",
+            "publishedAt": "2021-08-26T15:01:21Z",
+            "content": "In birds, males are often the ones to sport showy, colorful feathersthe better to attract and entice females. Its peacocks, not peahens, that get to fan out flamboyant blue-and-green tails. Male card… [+5593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X staff",
+            "title": "Engineers create double layer of borophene for first time - Phys.org",
+            "description": "For the first time, Northwestern University engineers have created a double layer of atomically flat borophene, a feat that defies the natural tendency of boron to form non-planar clusters beyond the single-atomic-layer limit.",
+            "url": "https://phys.org/news/2021-08-layer-borophene.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/engineers-create-doubl.jpg",
+            "publishedAt": "2021-08-26T15:00:10Z",
+            "content": "For the first time, Northwestern University engineers have created a double layer of atomically flat borophene, a feat that defies the natural tendency of boron to form non-planar clusters beyond the… [+4512 chars]"
+        }
+    ]
+}
