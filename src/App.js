@@ -1,5 +1,4 @@
 import React from 'react'
-import CategorySet from './components/CategorySet'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import News from './components/News'
@@ -11,6 +10,7 @@ import {
 } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar';
 import { useState } from 'react'
+import ScrollToTop from './components/ScrollToTop';
 
 const App = () => {
 
@@ -28,10 +28,8 @@ const App = () => {
   return (
     <>
       <Router>
-        <LoadingBar
-          color='#f11946'
-          progress={ProgressState}
-        />
+        <ScrollToTop />
+        <LoadingBar color='#f11946' progress={ProgressState} />
         <Navbar />
         <Switch>
           <Route exact path='/business'>
