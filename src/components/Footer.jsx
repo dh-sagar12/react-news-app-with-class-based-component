@@ -1,7 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class Footer extends Component {
-    render() {
+const Footer = ()=> {
         return (
             <div>
                 <footer className="py-5 bg-dark overflow-hidden">
@@ -44,7 +43,7 @@ export class Footer extends Component {
                 </footer>
             </div>
         )
-    }
+    
 }
 
 export default Footer

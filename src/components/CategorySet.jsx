@@ -1,14 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
 import '../CategorySet.css'
 import {
     Link
   } from "react-router-dom";
 
-export class CategorySet extends Component {
-    render() {
+const CategorySet =()=> {
         return (
             <div>
-                <div className=" nav-scroller py-1 mb-2 bg-light ">
+                <div className=" nav-scroller py-1 mb-2 bg-light  ">
                     <nav className='' >
                         <ul className="nav navbar text-nowrap flex-nowrap d-flex justify-content-between " style={{ overflowX: 'auto' }}>
                             <li className="nav-item">
@@ -34,7 +33,6 @@ export class CategorySet extends Component {
                 </div>
             </div>
         )
-    }
 }
 
 export default CategorySet
